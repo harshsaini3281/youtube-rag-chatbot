@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+youtube-transcript-api
 
 # OpenAI Integration
 langchain-openai
