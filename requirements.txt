@@ -14,6 +14,7 @@ sentence-transformers
 youtube-transcript-api
 
 python-dotenv
+langchain-text-splitters
 
 numpy
 scikit-learn
