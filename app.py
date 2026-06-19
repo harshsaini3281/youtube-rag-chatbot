@@ -1,4 +1,6 @@
 import streamlit as st
+import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 from chatbot_using_RAG import create_chain
 def extract_video_id(url):
 
